@@ -12,7 +12,7 @@ Tools Used: Python, Scikit Learn, Jupyter Notebook, Pandas, Numpy, matplotlib
 
 ### Sample Image
 
-<img src="assets/yuber.png">
+<img src="assets/fitnesstracker.jpg">
 
 ## Neural Network Interface
 
@@ -22,7 +22,9 @@ Tools Used: Python, Pandas, Numpy, React
 
 [Repo Link](https://github.com/MosesDVarghese/f20bc_group2_2023-24)
 
-<img src="assets/linkup.png">
+### Sample Image
+
+<img src="assets/nninterface.png">
 
 ## Data Mining on Traffic Signs Data
 
