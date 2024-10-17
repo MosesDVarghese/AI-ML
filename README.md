@@ -1,4 +1,4 @@
-# React Native Apps
+# AI, ML, Data Science
 
 This repo contains my Artificial Intelligence and Machine Learning projects in one place for easy access.
 
